@@ -17,7 +17,7 @@ Simply put the dependency coordinates to the `dependencyManagement` section in y
 <dependencyManagement>
   <dependencies>
     <dependency>
-      <groupId>com.github.dasniko</groupId>
+      <groupId>com.github.hiruna</groupId>
       <artifactId>keycloak-spi-bom</artifactId>
       <version>VERSION</version>
       <type>pom</type>
